@@ -23,7 +23,7 @@ print('''
 -------------------------------------------------------------------------------------------------------------------------
 
                                                                                                 Prepared by :-
-                                                                                                --Sahil Goel,XII-A
+                                                                                                --Sahil Goyal,AIML-B
                                                                                                 
                                                                                                 Guided by :-
                                                                                                 -- MR.Ashok Kumar Rao Sir
